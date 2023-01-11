@@ -12,15 +12,16 @@ class _HomePageState extends State<HomePage> {
 
   List questionList = [
     "1. In the Film 'OMG:Oh My God' Kanji\nBhai filed a case against whom for the\n     Damage of his shop due to an\n                 Earthquake?",
-    "2. The International literacy day is Observed on?"
+    "2. The International literacy day is Observed on?",
+    "3. In which year C language was developed?",
   ];
 
-  List answerList = ["Bhagwan","8th Sept"];
+  List answerList = ["Bhagwan","8th Sept","1972"];
 
-  List aList = ["Bharat Mata","8th Sept"];
-  List bList = ["Parliament","20th Nov"];
-  List cList = ["Mumbai City","2nd May"];
-  List dList = ["Bhagwan","22nd Sept"];
+  List aList = ["Bharat Mata","8th Sept","1973"];
+  List bList = ["Parliament","20th Nov","1979"];
+  List cList = ["Mumbai City","2nd May","1972"];
+  List dList = ["Bhagwan","22nd Sept","1982"];
 
   List useranswerList = [];
 
